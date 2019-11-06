@@ -1,0 +1,69 @@
+Skip to content
+
+
+  
+Pull requests 
+Issues 
+Marketplace 
+Explore 
+
+
+ 
+
+
+
+This repository has been archived by the owner. It is now read-only. 
+Watch 
+185 
+Star 
+9.7k 
+Fork 
+951 
+
+microsoft/TypeScript-React-Starter Archived 
+Code 
+Issues 120 
+Pull requests 83 
+Actions 
+Projects 0 
+Wiki 
+Security 
+Insights 
+Branch: master 
+TypeScript-React-Starter/src/components/Hello.css 
+Find file 
+Copy path 
+ bowdenk7 initial commit 
+f9fbbdd on May 9, 2017 
+1 contributor 
+13 lines (12 sloc) 238 Bytes 
+Raw
+Blame
+History
+
+
+.hello {
+
+  text-align: center;
+
+  margin: 20px;
+
+  font-size: 48px;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+
+
+.hello button {
+
+    margin-left: 25px;
+
+    margin-right: 25px;
+
+    font-size: 40px;
+
+    min-width: 50px;
+
+}
